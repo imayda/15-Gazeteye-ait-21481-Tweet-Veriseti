@@ -41,5 +41,7 @@ Veri kümesindeki örnek sayısı: 21481 tweet
 
 **Veri kümesi üzerinde yapılan çalışmaya dair yayın:**
 
-https://www.researchgate.net/publication/321234321_N-gram_based_approach_to_recognize_the_twitter_accounts_of_Turkish_daily_newspapers
+IEEE Xplore: https://ieeexplore.ieee.org/document/8090209/
+
+ResearchGate: https://www.researchgate.net/publication/321234321_N-gram_based_approach_to_recognize_the_twitter_accounts_of_Turkish_daily_newspapers
 
