@@ -25,7 +25,7 @@ _*10 Haziran 2016 tarihi itibariyle_
 
 **"Tweetler"** dosyasında 15 gazetenin her biri için ayrı klasör bulunmaktadır. Her klasörde 1 Haziran - 10 Haziran 2016 tarihleri arasındaki her gün için ayrı bir metin dosyası mevcuttur. Her metin dosyasında o gün o hesaptan atılan tüm tweetler satır satır listelenmiştir. Metin dosyalarının her satırında bir tweet ve TAB karakteri ile ayrılmış şekilde o tweetin atıldığı saat ve tarih bilgisi yer almaktadır.
 
-Bu veri kümesi metin sınıflandırma çalışmalarında kullanılabilir.
+Bu veri kümesi **metin sınıflandırma** çalışmalarında kullanılabilir.
 
 Veri kümesindeki sınıf sayısı: 15
 
